@@ -3,7 +3,7 @@ Programación2_UNT
 
 Grupo: TPL
 
--CORCUERA ARAUJO,Carlos Bitner 	
--FERNÁNDEZ REYES, José María	
--HUAMÁN HUAMÁN,William Fabián	
+-CORCUERA ARAUJO, Carlos Bitner 	
+-FERNÁNDEZ REYES, Jose Maria	
+-HUAMÁN HUAMÁN, William Fabián	
 -MONTOYA HERRERA, Marcelo	José
